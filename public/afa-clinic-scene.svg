@@ -1,0 +1,70 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="1200" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5F1E8"/>
+      <stop offset="1" stop-color="#E5E1D7"/>
+    </linearGradient>
+    <linearGradient id="floor" x1="0" y1="0" x2="0" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#CBB89B"/>
+      <stop offset="1" stop-color="#B89F7D"/>
+    </linearGradient>
+    <linearGradient id="sign" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0E705D"/>
+      <stop offset="1" stop-color="#0B4E44"/>
+    </linearGradient>
+    <linearGradient id="chair" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#D5A66F"/>
+      <stop offset="1" stop-color="#B77C3E"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#wall)"/>
+  <rect y="540" width="1200" height="360" fill="url(#floor)"/>
+
+  <rect x="0" y="110" width="1200" height="30" fill="#E3DCCC"/>
+
+  <g opacity="0.9">
+    <rect x="174" y="244" width="218" height="72" rx="18" fill="#F7F3ED"/>
+    <rect x="814" y="244" width="218" height="72" rx="18" fill="#F7F3ED"/>
+  </g>
+
+  <rect x="85" y="180" width="1030" height="280" rx="26" fill="#F7F3ED" opacity="0.3"/>
+
+  <g>
+    <rect x="310" y="300" width="580" height="160" rx="18" fill="url(#sign)"/>
+    <text x="600" y="360" text-anchor="middle" font-size="92" font-weight="900" fill="#F8F7F5" font-family="Arial, Helvetica, sans-serif">AFA</text>
+    <text x="600" y="410" text-anchor="middle" font-size="22" font-weight="700" fill="#E9F6F1" font-family="Arial, Helvetica, sans-serif" letter-spacing="4">AUSTRALIAN FAMILY AUDIOLOGY</text>
+    <text x="600" y="448" text-anchor="middle" font-size="54" font-weight="800" fill="#F8F7F5" font-family="Arial, Helvetica, sans-serif">Hearing</text>
+  </g>
+
+  <g>
+    <rect x="145" y="585" width="170" height="180" rx="16" fill="#D7C7B0"/>
+    <rect x="170" y="470" width="120" height="120" rx="20" fill="url(#chair)"/>
+    <rect x="190" y="435" width="80" height="52" rx="18" fill="#C98D50"/>
+    <line x1="200" y1="470" x2="200" y2="760" stroke="#B57A3B" stroke-width="8"/>
+    <line x1="270" y1="470" x2="270" y2="760" stroke="#B57A3B" stroke-width="8"/>
+    <line x1="170" y1="620" x2="120" y2="760" stroke="#B57A3B" stroke-width="8"/>
+    <line x1="290" y1="620" x2="340" y2="760" stroke="#B57A3B" stroke-width="8"/>
+  </g>
+
+  <g>
+    <rect x="885" y="585" width="170" height="180" rx="16" fill="#D7C7B0"/>
+    <rect x="910" y="470" width="120" height="120" rx="20" fill="url(#chair)"/>
+    <rect x="930" y="435" width="80" height="52" rx="18" fill="#C98D50"/>
+    <line x1="940" y1="470" x2="940" y2="760" stroke="#B57A3B" stroke-width="8"/>
+    <line x1="1010" y1="470" x2="1010" y2="760" stroke="#B57A3B" stroke-width="8"/>
+    <line x1="910" y1="620" x2="860" y2="760" stroke="#B57A3B" stroke-width="8"/>
+    <line x1="1030" y1="620" x2="1080" y2="760" stroke="#B57A3B" stroke-width="8"/>
+  </g>
+
+  <g>
+    <rect x="470" y="670" width="260" height="110" rx="18" fill="#E8D9B7"/>
+    <rect x="500" y="580" width="200" height="110" rx="20" fill="#D3A063"/>
+    <circle cx="600" cy="570" r="40" fill="#E7C28A"/>
+  </g>
+
+  <g opacity="0.85">
+    <rect x="512" y="142" width="176" height="20" rx="10" fill="#D9B77A"/>
+    <rect x="520" y="172" width="160" height="10" rx="5" fill="#EFD4A4"/>
+  </g>
+</svg>

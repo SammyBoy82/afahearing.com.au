@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f4fbf7"/>
+  <rect x="70" y="120" width="660" height="360" rx="28" fill="#ffffff" stroke="#d6e9dc" stroke-width="4"/>
+  <rect x="120" y="180" width="220" height="170" rx="18" fill="#dcefe2"/>
+  <rect x="360" y="170" width="260" height="230" rx="24" fill="#f7efe8"/>
+  <circle cx="210" cy="270" r="52" fill="#4ea96a" opacity="0.15"/>
+  <rect x="220" y="170" width="80" height="54" rx="10" fill="#3f7d5c"/>
+  <rect x="260" y="188" width="28" height="18" rx="4" fill="#ffffff"/>
+  <rect x="385" y="220" width="115" height="60" rx="14" fill="#4a4a4a"/>
+  <rect x="505" y="220" width="90" height="60" rx="14" fill="#6f8b7f"/>
+  <rect x="420" y="295" width="140" height="70" rx="14" fill="#e8f0eb"/>
+  <path d="M220 300c30-20 70-24 100-10" stroke="#5b8f71" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <circle cx="610" cy="290" r="50" fill="#f8d3a8"/>
+  <circle cx="610" cy="290" r="22" fill="#ffffff"/>
+  <rect x="170" y="430" width="420" height="22" rx="10" fill="#b9d8c5"/>
+  <text x="400" y="535" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="34" fill="#2f5d3f">Hearing aid fitting in clinic</text>
+</svg>

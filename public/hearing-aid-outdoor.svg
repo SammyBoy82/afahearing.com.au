@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f5fbf7"/>
+  <rect x="90" y="130" width="620" height="340" rx="24" fill="#ffffff" stroke="#d8e9dc" stroke-width="4"/>
+  <circle cx="610" cy="220" r="96" fill="#8dc89c" opacity="0.35"/>
+  <rect x="150" y="210" width="220" height="160" rx="18" fill="#ebf5ee"/>
+  <rect x="420" y="200" width="160" height="180" rx="18" fill="#f8e3c8"/>
+  <path d="M480 290h80" stroke="#4f7f61" stroke-width="12" stroke-linecap="round"/>
+  <path d="M182 338c35-30 72-44 110-42" stroke="#5f9b70" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <rect x="178" y="400" width="360" height="22" rx="10" fill="#cfe4d3"/>
+  <text x="400" y="535" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="34" fill="#2f5d3f">Hearing aids for everyday life</text>
+</svg>
